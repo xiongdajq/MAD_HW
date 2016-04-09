@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="wjq_hw1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:wjq_hw1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF3B3B41">
+        <Button x:Name="speak_btn" Content="Speak" HorizontalAlignment="Center" Margin="70,0,70,195" VerticalAlignment="Bottom" FontSize="64" FontFamily="Tekton Pro" FontWeight="Bold" Click="speak_btn_Click" Background="#FFC3C3CD" Width="500" Height="70"/>
+        <TextBox x:Name="textBox" Margin="172,0,168,125" TextWrapping="Wrap" Text="" FontFamily="Verdana" FontSize="32" TextAlignment="Center" Foreground="#FFE8E8F2" Background="White" BorderBrush="#FFFBF5F5" Height="55" VerticalAlignment="Bottom" HorizontalAlignment="Center" Width="300"/>
+        <TextBlock x:Name="textBlock" Height="100" Width="600" Margin="21,98,19,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontFamily="Verdana" FontSize="64" TextAlignment="Center" Foreground="#FFD9D9F0" LineHeight="8" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center">
+            <TextBlock.Projection>
+                <PlaneProjection CenterOfRotationX="0" LocalOffsetY="5"/>
+            </TextBlock.Projection>
+        </TextBlock>
+        <Button x:Name="sure_btn" Content="Sure" HorizontalAlignment="Center" Height="70" Margin="72,0,68,42" VerticalAlignment="Bottom" RenderTransformOrigin="0.16,0.458" FontFamily="Tekton Pro" FontSize="64" Click="sure_btn_Click" RequestedTheme="Light" Background="#FFBABAC2" Width="500"/>
+
+    </Grid>
+</Page>
