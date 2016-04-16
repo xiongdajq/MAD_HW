@@ -20,7 +20,7 @@
         <TextBlock Text="请输入要查询的汉字" Grid.Row="0" VerticalAlignment="Bottom" FontFamily="Sitka Small" Foreground="#FFFDF4F4" FontSize="21.333"/>
         <TextBox x:Name="word" Text="" Grid.Row="1" HorizontalAlignment="Center" Margin="0,0,90,0" Height="40" TextWrapping="Wrap" VerticalAlignment="Center" Width="200" Foreground="#FF0C0B0B" FontSize="21.333"/>
         <TextBlock Text="查询结果:" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Bottom" Foreground="#FFF9F3F3" FontSize="21.333"/>
-        <TextBlock x:Name="此处显示拼音" Grid.Row="3" HorizontalAlignment="Center" Height="40" Margin="0" TextWrapping="Wrap" Text="pinyin" VerticalAlignment="Center" Width="250" FontFamily="Rockwell" FontSize="24" Foreground="#FFF7F4F4"/>
+        <TextBlock x:Name="pinyin" Grid.Row="3" HorizontalAlignment="Center" Height="40" Margin="0" TextWrapping="Wrap" Text="此处显示拼音" VerticalAlignment="Center" Width="250" FontFamily="Rockwell" FontSize="24" Foreground="#FFF7F4F4"/>
         <Button x:Name="button" Grid.Row="1" Content="Search" HorizontalAlignment="Center" Height="35" Margin="260, 0, 0,0" VerticalAlignment="Center" Width="87" Click="button_Click" Foreground="#FFF9ECEC" Background="#FF7C929D"/>
 
     </Grid>

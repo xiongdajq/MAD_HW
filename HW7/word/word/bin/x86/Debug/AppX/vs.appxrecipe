@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>436f13ab-4bf8-4a18-9439-ab1fa5c08941</PackageIdentityName>
-    <IntermediateOutputPath>E:\HW7-code\word\word\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>E:\MAD_HW\HW7\word\word\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>CAC0D78F10949C2B90E1EB59FCE78F70706822F802A0E898FE8D4AFE6C76358F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>436f13ab-4bf8-4a18-9439-ab1fa5c08941_1.0.0.0_x86__zjjx33njtaszy</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>436f13ab-4bf8-4a18-9439-ab1fa5c08941_zjjx33njtaszy!App</RegisteredUserModeAppID>
@@ -19,16 +19,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\HW7-code\word\word\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="E:\MAD_HW\HW7\word\word\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-11T15:40:17.242</Modified>
+      <Modified>2016-04-12T14:10:29.054</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\bin\x86\Debug\word.exe">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\bin\x86\Debug\word.exe">
       <PackagePath>entrypoint\word.exe</PackagePath>
-      <Modified>2016-04-11T15:40:16.604</Modified>
+      <Modified>2016-04-12T14:10:27.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Cindy\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -454,57 +454,57 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-04-09T15:13:05.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\ApplicationInsights.config">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2016-04-11T06:56:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\grungy_background-wallpaper-960x540.jpg">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\grungy_background-wallpaper-960x540.jpg">
       <PackagePath>Assets\grungy_background-wallpaper-960x540.jpg</PackagePath>
       <Modified>2016-04-11T15:33:55.912</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\violet-vector-leaves-circles-backgrounds-for-powerpoint_PdfkI4q.jpg">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\violet-vector-leaves-circles-backgrounds-for-powerpoint_PdfkI4q.jpg">
       <PackagePath>Assets\violet-vector-leaves-circles-backgrounds-for-powerpoint_PdfkI4q.jpg</PackagePath>
       <Modified>2016-04-11T15:33:55.946</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-04-11T06:56:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-09-20T09:22:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\bin\x86\Debug\word.xr.xml">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\bin\x86\Debug\word.xr.xml">
       <PackagePath>word.xr.xml</PackagePath>
       <Modified>2016-04-11T15:40:16.402</Modified>
     </AppxPackagedFile>
@@ -512,13 +512,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-04-09T14:15:03.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-04-11T15:40:17.032</Modified>
+      <Modified>2016-04-12T14:10:28.763</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\HW7-code\word\word\bin\x86\Debug\Core\word.exe">
+    <AppxPackagedFile Include="E:\MAD_HW\HW7\word\word\bin\x86\Debug\Core\word.exe">
       <PackagePath>word.exe</PackagePath>
-      <Modified>2016-04-11T15:40:17.240</Modified>
+      <Modified>2016-04-12T14:10:29.048</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

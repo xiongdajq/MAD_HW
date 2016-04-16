@@ -1,1 +1,0 @@
-F:\xc\HW7-code\weather\weather\weather.csproj;x86

@@ -1,1 +1,0 @@
-E:\HW7-code\word\word\word.csproj;x86
