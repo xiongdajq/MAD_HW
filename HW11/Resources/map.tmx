@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="map" tilewidth="32" tileheight="32" tilecount="224" columns="8">
+  <image source="025-Castle01.png" width="256" height="896"/>
+ </tileset>
+ <layer name="块层 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0bsNgDAMhOHbfxGGSEkBHXTQ4VFwgxRFRnlwdoWlK5LmK/4EIBHXehNpp+4IdHfdlr2j3FW3BLqiu4x/b/fpGeWWPaPcsqe3K7B7ertvPb3cWk8vt9aT7QraerLd1p4st7cny+3t+dUVjPUcdWfy/rPvBo5D9Ck=
+  </data>
+ </layer>
+ <layer name="块层 2" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy9lDEOhUAIRLn/RSz/ASwt/u+0006O8teCRIkIg+gk02wyTHZfWKJa9UGLlua5oLcDLZqaxxudkkd7f83fZO8+j3Tuxc3rxXw2zmWm5NHeLG+ZKfnMnTehvPVcj7cllLeea/Emuu5FZd2L6cj7rV7NG+31eFfx1fJ4R/lm35jpfL/v7q8na7+r9teT5p39n1Fp3tH/2VM0z+TzjOzX03mUR9W8IehPsf8dNd2z
+  </data>
+ </layer>
+</map>
